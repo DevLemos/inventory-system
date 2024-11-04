@@ -1,0 +1,26 @@
+{
+    "1": {
+        "codigo": 1,
+        "nome": "Maca",
+        "quantidade": 10,
+        "preco": 2.71
+    },
+    "2": {
+        "codigo": 2,
+        "nome": "Pera",
+        "quantidade": 20,
+        "preco": 3.39
+    },
+    "3": {
+        "codigo": 3,
+        "nome": "Laranja",
+        "quantidade": 50,
+        "preco": 5.39
+    },
+    "4": {
+        "codigo": 4,
+        "nome": "Banana Prata",
+        "quantidade": 25,
+        "preco": 1.68
+    }
+}
